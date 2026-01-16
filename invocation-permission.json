@@ -1,0 +1,7 @@
+{
+  "invocation_possible": true,
+  "invocation_expected": false,
+  "invocation_required": false,
+  "non_invocation_state": "fully-aligned",
+  "violation_on_silence": false
+}
